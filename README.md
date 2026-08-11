@@ -1,108 +1,308 @@
-## ¡Hola! 👋 Soy Ale (Fadelk)
-<div align="center"> <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" /> </div>
+<div align="center">
 
-<div align="center"> <a href="https://www.linkedin.com/in/alejandra-catacora-7155931b8/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" /> </a> </div>
+# 👾 ALE / FADELK
 
-<h1 align="center">Blockchain & Web3 Developer | Cybersecurity Student</h1>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E5A0&center=true&vCenter=true&width=750&lines=Blockchain+%26+Web3+Developer;Cybersecurity+Student;Building+Secure+Decentralized+Systems;Exploring+Smart+Contract+Security"
+alt="Typing SVG"
+/>
 
-👩‍💻 About Me
+<br/>
 
-I'm a developer focused on Blockchain and Web3, currently studying Cybersecurity and building my technical skills across decentralized applications, smart contracts, and modern web technologies.
+![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-0D1117?style=for-the-badge\&logo=ethereum\&logoColor=7C3AED)
+![Web3](https://img.shields.io/badge/WEB3-0D1117?style=for-the-badge\&logo=web3dotjs\&logoColor=58A6FF)
+![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-0D1117?style=for-the-badge\&logo=hackthebox\&logoColor=00E5A0)
 
-🔗 Focused on Blockchain, Web3, Smart Contracts, and DApps
-🛡️ Currently studying Cybersecurity
-🧠 Learning more about smart contract security, blockchain infrastructure, and decentralized systems
-⚙️ Building with technologies such as Solidity, Rust, React, Next.js, TypeScript, and Web3 tooling
-🌐 Interested in DeFi, blockchain protocols, tokenization, and decentralized applications
-🔐 Exploring the intersection between Blockchain and Cybersecurity
-🚀 Always learning, experimenting, and building new projects
-⛓️ Blockchain & Web3
+<br/>
 
-<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="Solidity" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" height="40" alt="Ethereum" /> </div>
+<a href="https://www.linkedin.com/in/alejandra-catacora-7155931b8/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
+</a>
 
-I enjoy working with:
-
-Smart Contracts
-Decentralized Applications (DApps)
-DeFi
-Web3 Infrastructure
-Blockchain Protocols
-Tokenization
-Wallet integrations
-On-chain applications
-🛡️ Cybersecurity
-
-I'm currently developing my cybersecurity skills in areas such as:
-
-Linux
-Networking
-Web Security
-Vulnerability Analysis
-Enumeration
-Offensive Security Fundamentals
-Secure Development
-Smart Contract Security
-
-My goal is to combine Web3 development with cybersecurity knowledge to build decentralized applications that are not only functional, but also secure.
-
-🛠️ Technologies & Tools
-
-<div align="left">
-
-<!-- Web3 -->
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="Solidity" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust" /> <img width="12" />
-
-<!-- Frontend -->
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-
-<br />
-
-<!-- Backend -->
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
-
-<br />
-
-<!-- Databases -->
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-
-<br />
-
-<!-- DevOps -->
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+<a href="https://github.com/adletgamer">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
-🎯 Current Focus
-Blockchain Development
-├── Smart Contracts
-├── Web3 Applications
-├── DeFi
-├── Blockchain Infrastructure
-└── Smart Contract Security
+---
 
-Cybersecurity
-├── Web Security
-├── Linux & Networking
-├── Vulnerability Analysis
-├── Offensive Security
-└── Secure Development
-📈 GitHub Stats
+## `> whoami`
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adletgamer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub stats" />
+```text
+Blockchain & Web3 Developer
+Cybersecurity Student
+Building at the intersection of decentralized systems and security.
+```
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adletgamer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages" /> </div>
+I'm a developer focused on **Blockchain and Web3**, currently studying **Cybersecurity**.
 
-📫 Connect With Me
+I enjoy building decentralized applications, smart contracts, and modern Web3 interfaces while developing a deeper understanding of how decentralized systems can be designed, tested, and secured.
 
-<div align="left"> <a href="https://www.linkedin.com/in/alejandra-catacora-7155931b8/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </div>
+My long-term focus is the intersection between:
+
+**Blockchain Engineering × Web3 Infrastructure × Cybersecurity**
+
+---
+
+## ⚡ Current Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⛓️ Blockchain & Web3
+
+* Smart Contracts
+* Decentralized Applications
+* DeFi
+* Tokenization
+* Web3 Infrastructure
+* Wallet Integrations
+* On-chain Applications
+* Blockchain Protocols
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛡️ Cybersecurity
+
+* Web Security
+* Linux
+* Networking
+* Vulnerability Analysis
+* Offensive Security
+* Secure Development
+* Smart Contract Security
+* Blockchain Security
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Ecosystems I'm Exploring
 
 <div align="center">
 
-Building at the intersection of Blockchain, Web3 & Cybersecurity. 🔗🛡️
+![Ethereum](https://img.shields.io/badge/Ethereum-0D1117?style=for-the-badge\&logo=ethereum\&logoColor=8B5CF6)
+![Arbitrum](https://img.shields.io/badge/Arbitrum-0D1117?style=for-the-badge\&logo=arbitrum\&logoColor=28A0F0)
+![Stellar](https://img.shields.io/badge/Stellar-0D1117?style=for-the-badge\&logo=stellar\&logoColor=FFFFFF)
+
+</div>
+
+---
+
+## 🧠 What I'm Learning
+
+```text
+blockchain/
+├── smart-contracts/
+│   ├── solidity
+│   ├── rust
+│   └── smart-contract-security
+│
+├── web3/
+│   ├── dapps
+│   ├── defi
+│   ├── wallets
+│   └── on-chain-infrastructure
+│
+└── cybersecurity/
+    ├── web-security
+    ├── linux
+    ├── networking
+    ├── vulnerability-analysis
+    └── offensive-security
+```
+
+---
+
+## 🧰 Tech Stack
+
+### `Blockchain / Programming`
+
+<div align="center">
+
+[![Blockchain Stack](https://skillicons.dev/icons?i=solidity,rust,ts,js,py\&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### `Web Development`
+
+<div align="center">
+
+[![Web Stack](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind\&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### `Security / DevOps / Tools`
+
+<div align="center">
+
+[![Tools](https://skillicons.dev/icons?i=linux,kali,ubuntu,docker,git,github,githubactions,vscode,postman\&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### `Databases`
+
+<div align="center">
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb\&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🔐 Security Mindset
+
+> Building decentralized systems is not only about making them work — it's also about understanding how they can fail.
+
+I'm especially interested in strengthening my knowledge around:
+
+```text
+Smart Contract Security
+Web Application Security
+Blockchain Attack Surfaces
+Secure Development
+Network Fundamentals
+Vulnerability Analysis
+Protocol Security
+```
+
+---
+
+## 🚀 What I Like Building
+
+```text
+01  Smart Contracts
+02  Decentralized Applications
+03  Web3 Frontends
+04  Blockchain Infrastructure
+05  DeFi Applications
+06  Security-Focused Projects
+07  Developer Tools
+08  Experiments with Emerging Web3 Technologies
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img
+height="165"
+src="https://github-stats-extended.vercel.app/api?username=adletgamer&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&icon_color=00E5A0&text_color=8B949E"
+alt="Ale GitHub Stats"
+/>
+
+<img
+height="165"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=adletgamer&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=8B949E"
+alt="Ale Top Languages"
+/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=adletgamer&bg_color=0D1117&color=8B949E&line=7C3AED&point=00E5A0&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Activity"
+alt="Contribution Activity"
+/>
+
+</div>
+
+---
+
+## 🧩 My Developer Profile
+
+<table align="center">
+<tr>
+<td align="center">
+
+**⛓️ Blockchain**
+
+Smart Contracts
+DApps
+DeFi
+Tokenization
+
+</td>
+
+<td align="center">
+
+**🌐 Web3**
+
+Wallets
+On-chain Apps
+Infrastructure
+Protocols
+
+</td>
+
+<td align="center">
+
+**🛡️ Security**
+
+Web Security
+Linux
+Networking
+Smart Contract Security
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Current Mission
+
+```text
+Learn deeper.
+Build real products.
+Understand the protocol.
+Break assumptions.
+Secure what I build.
+Keep shipping.
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in learning, building, and collaborating around
+**Blockchain, Web3, Cybersecurity and emerging technologies.**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/alejandra-catacora-7155931b8/">
+  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
+</a>
+
+<a href="https://github.com/adletgamer">
+  <img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00E5A0" />
+</a>
+
+<br/><br/>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=7C3AED&center=true&vCenter=true&width=650&lines=%3E+Blockchain+%C3%97+Web3+%C3%97+Security;%3E+Building.+Learning.+Securing.;%3E+See+you+on-chain."
+alt="Footer Typing SVG"
+/>
+
+<br/>
+
+`Blockchain` • `Web3` • `Cybersecurity`
 
 </div>
